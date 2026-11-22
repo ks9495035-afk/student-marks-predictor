@@ -25,7 +25,9 @@ Linear Regression
 - app.py
 - marks_predictor.py
 - templates/index.html
+## Live Demo
 
+Try the project here: https://student-marks-predictor-18kd.onrender.com
 ## How to Run
 
 1. Install Python.
